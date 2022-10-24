@@ -16,8 +16,21 @@ Here are some ideas to get you started:
 -->
 
 
+## :speak_no_evil:  About me:
+I'm a QA Engineer.
+
+:feet:
+Successfully finished the courses in: 
+Yandex.Practicum - QA Engineer
+
 
 ---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avnovik&show_icons=true&theme=radical)](https://github.com/StanislavDZ/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnovik&layout=compact)](https://github.com/avnovik/github-readme-stats)
+Footer
+
 
 ### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avnovik&theme=tokyonight)
