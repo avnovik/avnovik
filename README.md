@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+---
+
+### :fire: My Stats :
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=avnovik&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avnovik&theme=tokyonight) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avnovik&theme=tokyonight)
+---
