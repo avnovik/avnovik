@@ -26,7 +26,7 @@ Yandex.Practicum - QA Engineer
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avnovik&show_icons=true&theme=radical)](https://github.com/StanislavDZ/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avnovik&show_icons=true&theme=radical)](https://github.com/avnovik/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnovik&layout=compact)](https://github.com/avnovik/github-readme-stats)
 Footer
