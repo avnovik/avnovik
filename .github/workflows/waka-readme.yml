@@ -19,7 +19,7 @@ jobs:
           SHOW_TITLE: true 
           SECTION_NAME: waka
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          CODE_LANG: json
+          CODE_LANG: java
           TIME_RANGE: last_6_months
           LANG_COUNT: 10
           SHOW_TIME: true
