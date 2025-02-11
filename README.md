@@ -23,10 +23,7 @@ I'm a QA Engineer.
 Successfully finished the courses in: 
 Yandex.Practicum - QA Engineer
 
-
 ---
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avnovik&show_icons=true&theme=radical)](https://github.com/avnovik/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnovik&layout=compact)](https://github.com/avnovik/github-readme-stats)
 Footer
@@ -37,3 +34,5 @@ Footer
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=avnovik&theme=tokyonight) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=avnovik&theme=tokyonight)
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
