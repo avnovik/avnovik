@@ -16,13 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-## :speak_no_evil:  About me:
-I'm a QA Engineer.
-
-:feet:
-Successfully finished the courses in: 
-Yandex.Practicum - QA Engineer
-
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avnovik&layout=compact)](https://github.com/avnovik/github-readme-stats)
