@@ -3,19 +3,19 @@
 <!--START_SECTION:waka-->
 
 ```java
-From: 27 November 2024 - To: 28 May 2025
+From: 28 November 2024 - To: 29 May 2025
 
-Total Time: 324 hrs 36 mins
+Total Time: 322 hrs 40 mins
 
-Kotlin                200 hrs 29 mins >>>>>>>>>>>>>>>----------   61.76 %
-Java                  85 hrs 1 min    >>>>>>>------------------   26.19 %
-YAML                  19 hrs 20 mins  >------------------------   05.96 %
-Java Properties       6 hrs 19 mins   -------------------------   01.95 %
-SQL                   4 hrs 4 mins    -------------------------   01.25 %
-XML                   2 hrs 59 mins   -------------------------   00.92 %
-Properties            1 hr 50 mins    -------------------------   00.57 %
+Kotlin                197 hrs 44 mins >>>>>>>>>>>>>>>----------   61.28 %
+Java                  85 hrs          >>>>>>>------------------   26.35 %
+YAML                  19 hrs 47 mins  >>-----------------------   06.14 %
+Java Properties       6 hrs 20 mins   -------------------------   01.97 %
+SQL                   4 hrs 4 mins    -------------------------   01.26 %
+XML                   3 hrs 4 mins    -------------------------   00.95 %
+Properties            1 hr 51 mins    -------------------------   00.58 %
+Text                  1 hr 30 mins    -------------------------   00.47 %
 Groovy                1 hr 26 mins    -------------------------   00.45 %
-Text                  1 hr 17 mins    -------------------------   00.40 %
 Markdown              38 mins         -------------------------   00.20 %
 ```
 
