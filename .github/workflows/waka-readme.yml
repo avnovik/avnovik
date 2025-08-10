@@ -18,7 +18,7 @@ jobs:
           BLOCKS: ->
           CODE_LANG: java
           TIME_RANGE: last_6_months
-          LANG_COUNT: 10
+          LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_TOTAL: true
           STOP_AT_OTHER: true
