@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```java
-From: 24 May 2025 - To: 22 November 2025
+From: 25 May 2025 - To: 23 November 2025
 
 Total Time: 340 hrs 44 mins
 
