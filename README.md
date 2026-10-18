@@ -3,11 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```java
-From: 17 April 2026 - To: 16 October 2026
+From: 18 April 2026 - To: 17 October 2026
 
-Total Time: 262 hrs 20 mins
+Total Time: 262 hrs 12 mins
 
-Kotlin            235 hrs 48 mins >>>>>>>>>>>>>>>>>>>>>>---   89.88 %
+Kotlin            235 hrs 40 mins >>>>>>>>>>>>>>>>>>>>>>---   89.88 %
 Java              5 hrs 15 mins   >------------------------   02.00 %
 YAML              5 hrs 11 mins   -------------------------   01.98 %
 XML               5 hrs 1 min     -------------------------   01.91 %
